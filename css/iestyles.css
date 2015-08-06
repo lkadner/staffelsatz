@@ -1,0 +1,15 @@
+﻿#nav ul li a{
+color: transparent !important;
+}
+
+@font-face {
+	font-family: 'UniversLTStd-BoldCn';
+	}
+
+/* damn ie */
+#nav ul li a {display: inline-block}
+.page .header {background: transparent url('../img/menu0.png') no-repeat -15px 150px;}
+.page.color0 .header {background-image: url('../img/menu0.png')}
+.page.color1 .header  {background-image: url('../img/menu1.png')}
+.page.color2 .header  {background-image: url('../img/menu2.png')}
+.page.color3 .header  {background-image: url('../img/menu3.png')}
